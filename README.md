@@ -53,6 +53,7 @@ pip3 uninstall telebot \
 pip3 uninstall PyTelegramBotAPI \
 pip3 install pyTelegramBotAPI \
 pip3 install --upgrade pyTelegramBotAPI \
+
 ---------------------
 Для облегчения запуска программы можно использовать pyinstaller: \
 Переходим в папку с HelperBotV1.py и выполняем команду \
