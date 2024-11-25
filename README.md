@@ -30,7 +30,7 @@ download <название файла >
 ![](img/img_4.png)
 ---------------------
 
-Команды бота: 
+Команды бота: \
 help - справка с командами \
 keyboard_linux -клавиатура linux \
 keyboard_windows -клавиатура windows \
