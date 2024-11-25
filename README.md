@@ -31,13 +31,13 @@ download <название файла >
 ---------------------
 
 Команды бота: 
-help - справка с командами
-keyboard_linux -клавиатура linux
-keyboard_windows -клавиатура windows
-keyboard_stop - закрыть клавиатуру
-keyboard_windows_f -клавиатура windows с загрузкой файлов
-keyboard_linux_f - закрыть клавиатуру с загрузкой файлов
-bot_non_stop - выключение постоянной работы бота
+help - справка с командами \
+keyboard_linux -клавиатура linux \
+keyboard_windows -клавиатура windows \
+keyboard_stop - закрыть клавиатуру \
+keyboard_windows_f -клавиатура windows с загрузкой файлов \
+keyboard_linux_f - закрыть клавиатуру с загрузкой файлов \
+bot_non_stop - выключение постоянной работы бота \
 
 Для быстроты пользования в список кнопок изменить на свои команды
 
